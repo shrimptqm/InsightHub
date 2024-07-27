@@ -1,0 +1,1076 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "2a361762-f33d-410e-9471-17b414c679a0",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "榜单名称",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "排名",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "d6bae200-92dd-4a56-b752-c4d647952142",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "书名",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "abfc450f-9b01-4b02-a943-9be7821e534d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "主播",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "播放量-万",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "checkbox",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "首期解读",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "a7b8818a-428b-45e5-896e-42d8b146451c",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:15:50.785Z",
+        "cells": [
+          {
+            "id": "9a8782ff-ee44-49a3-86a0-25ebc2d219be",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e9cc6b4f-4f21-44db-9e47-905fc9a29e69",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8cff4d63-1a92-43c1-ac6a-50c1c3da5c8a",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "蛤蟆先生去看心理医生",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2cde603c-b3d7-420a-b5ab-b5c12f741b3b",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "李蕾讲经典",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1759db3a-7cbb-48be-8e31-1f8f891845c8",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "483.4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fbb09118-4f02-41ac-b133-9423671138f0",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "184d7b2b-c4ec-4119-ae7b-9510db613922",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:13:19.022Z",
+        "cells": [
+          {
+            "id": "4a553faf-fe56-4187-b157-7ac3d2561038",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e43eb0b5-f2f0-4f15-8f51-1b7a37f580a7",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2c457a49-e8da-4600-8a82-39a537fb3e84",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "终身成长",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "92d3c3c2-fa4c-4cf3-a2d5-6fe1beb44a8e",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7f16e2fd-9a50-4e4a-9e79-f6ca1b2782ba",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "7271.1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c68077eb-18a7-41d1-bed8-de0352ce1165",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "65d3af08-93bb-4eff-9609-7084617302ce",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:15:52.735Z",
+        "cells": [
+          {
+            "id": "3db8f527-40ad-477b-925a-ad41fc98aaeb",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1f2114bf-0ebc-4294-ab01-21812afad274",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "3",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "32371e00-5c58-42b6-a690-2d9308b0f4ca",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "恰如其分的孤独",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "867b8dad-5788-4d6e-9f1c-313a04e78b6c",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0ff2c48b-9b0a-4cf1-92b4-f316ff05ab30",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "737.7",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ad9f3e90-4445-4cec-b130-b5f9c9d609f1",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "73e230b5-1aaf-4d45-9bcd-5dd45245bc94",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:13:14.970Z",
+        "cells": [
+          {
+            "id": "ed7d00f4-5aef-41b9-a526-8222ccc5cbb4",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2913314f-2912-478f-b9cf-41eb7ef7c77b",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dd091caa-08d4-414f-8fa1-56139c81e1a3",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "思考，快与慢",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3330e7b9-0b79-4113-b365-1d08384211e5",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "734e83a8-fa0e-4932-aef7-142492652242",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "2888",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4418c40f-20d9-4fe4-ba5c-d08f9585f19b",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c6e56c74-1092-4ccb-989f-80ab9ece7fc2",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:13:47.408Z",
+        "cells": [
+          {
+            "id": "43cf4a96-c2e3-417c-918a-5204415f073c",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "81201301-884a-4a6e-b34d-47ad3f643b7c",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "5",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e4c63a0c-3e3e-4082-b24a-060f0e7da796",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "解惑：心智模式决定你的一生",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d71655a9-20f4-4ee1-aae9-e4feadf538aa",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7c26f2a8-9eeb-4eef-8203-4d07e865688e",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "2891.2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "53360774-a46c-4e86-891b-c69fdb70bdf5",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "83bd917e-6eb1-419c-b9d8-273ec497345b",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:14:14.093Z",
+        "cells": [
+          {
+            "id": "b25c8448-62b2-444a-848f-17f627ce459a",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0246766a-6b5a-4a78-a078-747a27fd5b8b",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "6",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "483a1167-f227-4ee6-a1ae-98640678c0bf",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "关键对话",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "182ab8a0-b337-4449-b3f9-b1554298629e",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1f6bdba2-4e1e-47a4-ba52-16b35e1f4973",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "5954.3",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3b5cc700-599b-4d7f-a779-ab5fdddcf8c0",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d75d81cc-3cf9-48ed-89e4-0addd0ead20a",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:13:16.815Z",
+        "cells": [
+          {
+            "id": "5bf5b1f7-2815-4a74-b8cd-582f3f2f7efd",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "392db33c-b5b6-421e-9389-017b2f6d9090",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "7",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4b6186d0-5ae2-472e-aa77-8c10fa6e36a5",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "刻意练习",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a41c59dc-9aee-4679-92b1-d139b105f0aa",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "177601e1-882b-4fc1-9e61-604897a827bb",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "5821.2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "00153339-9d93-46fa-ac1a-5e36e20112bd",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "625e9d9e-8cfa-4de3-be88-1828d06a98b2",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:14:14.918Z",
+        "cells": [
+          {
+            "id": "59316056-5ae9-4d65-9807-5d714f766cd4",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d7b6b62c-f4f2-4f44-b979-e8525bcd7bb4",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1f568eb5-ffb6-4a0d-9bfb-f07ab4832b6f",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "反时间管理",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aab05296-45b1-4280-afa7-d791468c799a",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6c5a2810-49eb-48d4-9a5d-62fde85b8a92",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "720.9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9ed0685c-186e-44f8-abcb-8af0c3337393",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a745b294-c875-4e12-9a24-446fb6cdacab",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:13:40.966Z",
+        "cells": [
+          {
+            "id": "61f2558d-0498-4061-8435-d063ef185dbd",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3925d13a-c2ce-4c4d-ae74-abbff9a27775",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e734494a-bc67-4b27-8083-af98a3a2c6dc",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "能力陷阱",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "31158ff2-cf8b-455d-830b-34706e1c2ce8",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "19f6ef11-ca75-41ab-9155-19797401c7d4",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "3485",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0c18ff6b-86ed-4c1d-ad21-38c7a1718151",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "132dbfe1-42f4-4352-ade0-7bbb5d5b19f2",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:13:39.608Z",
+        "cells": [
+          {
+            "id": "b47fd65c-d476-4622-9bb0-40cec7095063",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dc046c44-90e7-4826-9657-05c8840f8af7",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "10",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "feb0a246-8695-470d-a2fb-078af6c7e808",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "洞见",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "430ae9d8-fdeb-4116-8a68-e902e9fb48a8",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ecbd1131-181d-4131-8190-22ac58e75c76",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "3250.4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0419b5b3-80a2-4257-b66d-2fcd30b73a75",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "db022306-9a9f-4902-b8cc-f1e5641a4537",
+        "index": 10,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:30:23.706Z",
+        "cells": [
+          {
+            "id": "76d74831-c63a-45b0-bcc6-80a696772b31",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "61f37919-a4be-4aaa-94a5-615e453d8e40",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "11",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5a0fefe8-281d-4188-a745-718de88c477f",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "掌控注意力",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c76cd7fa-0136-4cfd-9165-28767a194f6a",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "31b5fb4d-49d9-452b-bd98-f6c4975ca51f",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "668.1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4a966089-cc12-46f1-ae0b-adadb63ddf80",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "18f8c4cf-5dbb-416c-8da6-4c9f91c49bbb",
+        "index": 11,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:14:20.214Z",
+        "cells": [
+          {
+            "id": "f3f43933-2481-4484-9c68-f51e7c202eec",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "59c25dc5-5070-4071-a910-882a1558af9e",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "12",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dee79a7f-e42f-4c40-b680-6eaa4f9ee83e",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "他人的力量",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d29011b7-f48b-4a41-a039-17d11ab1a72f",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4cf76d85-ab7a-4a5e-8746-3b6f8bd95546",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "3471.1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d41b7eeb-e310-46ca-b7bf-5f5642662ddf",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "08567128-db55-4a21-92ef-b745909eb8db",
+        "index": 12,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:14:19.457Z",
+        "cells": [
+          {
+            "id": "1b923cef-1936-4d04-bc3e-2c793dfeaf97",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d533ce51-5b0e-4a9b-8623-cc3ba8fd7ae2",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "13",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dbd0e31b-eaf9-4be5-8cb2-b56b3601d050",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "反脆弱",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9e7cfb23-ebed-4af9-929b-7b139dadd2ae",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cddc29f8-2e63-4d96-81a8-aaef3b307317",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "2899.9",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "efe606ca-c0b0-4b2c-8975-3ba6cbf016d9",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "73b4d6c2-f4f2-4fff-b274-617a294bb0c3",
+        "index": 13,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.368Z",
+        "lastEditedDateTime": "2024-07-09T13:30:27.639Z",
+        "cells": [
+          {
+            "id": "c14b09dd-c1dc-4754-922c-bf320e02ad91",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5232458f-6b97-4516-a6f7-d875350133bf",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "14",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7ad05169-686e-4c8f-8e84-1f7621980ea5",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "可复制的领导力",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e6892c65-fcae-44f4-8dc1-2c5310de110e",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "66023320-3ef3-49d0-80d1-0ec09a84d60a",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "5332.8",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "61d1ac96-53ec-4fc3-b717-41dbc3262ce7",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "204fd5f0-bb1e-42ee-affc-d6e863b2a3f0",
+        "index": 14,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.369Z",
+        "lastEditedDateTime": "2024-07-09T13:30:30.411Z",
+        "cells": [
+          {
+            "id": "57499b84-77fd-4c83-a3f2-77d7c2c4e0b0",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "61da4fc8-c9ec-47d6-9bad-50e857104497",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "15",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1082349f-4ffc-43bd-827f-57aa73c976ec",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "目标感",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eb22570c-8290-4fca-872a-aa8884e58504",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "500021ae-9c33-4777-a1f4-2212bb91437a",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "1977.3",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6ba65b1c-2487-4b7c-9323-198ab4b518c5",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "816ed042-7a2e-46dd-804e-6f53657c6b93",
+        "index": 15,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.369Z",
+        "lastEditedDateTime": "2024-07-09T13:09:41.369Z",
+        "cells": [
+          {
+            "id": "6b3ff2a9-efb1-438a-acb8-cac0db8f0cad",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2568fae8-504c-421c-a98a-25f4ee143df7",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "16",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "db9c5018-5c7e-4e2b-b2e3-f9edfeceadaa",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "拿铁因素",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7a0b195b-99e5-4186-95a7-d5145ca5b103",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0223c20e-71eb-4338-a413-cf7a5aa23a07",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "642.1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "21943b2e-f637-4cfb-92e9-2000e6352378",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9cd3ead2-9106-432e-bac5-493b11b0b129",
+        "index": 16,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.369Z",
+        "lastEditedDateTime": "2024-07-09T13:09:41.369Z",
+        "cells": [
+          {
+            "id": "15f689d1-b367-4a99-90b4-2060e73c1877",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "59e4c793-3ac4-4e55-9388-5130121f4da6",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "17",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "64eb5cac-797e-403e-9d0f-101188bafcaa",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "如何克服社交焦虑",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7261a656-dc5a-4295-99ef-8741ede6e167",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "746ea31a-7ffe-4b8a-be49-91ad3a3fb667",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "2280.4",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "279f6dfc-f493-4aa7-b39b-1cee618427e9",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "baa2e6b2-ac44-4fbe-93a4-a48d2d31c13e",
+        "index": 17,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.369Z",
+        "lastEditedDateTime": "2024-07-09T13:14:24.969Z",
+        "cells": [
+          {
+            "id": "1b5ba363-a2d9-4a18-956d-eec204d8f726",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a780c94f-bfef-4426-abab-66332ca3278b",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "18",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f7c5e872-72a7-47f6-a9a4-25c43536404d",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "思辩与立场",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a322a9d1-5dbc-4fab-ad4f-99fff1fb868b",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1606b12c-f5ac-4f03-bd65-9ff49554f4ec",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "3214.2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e56b949c-9292-4d02-b6aa-586b79676d27",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "464cd635-04b2-4d05-8a12-0e991b690a45",
+        "index": 18,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.369Z",
+        "lastEditedDateTime": "2024-07-09T13:09:41.369Z",
+        "cells": [
+          {
+            "id": "84686e43-2d1d-44fd-b712-d5b1c89a7ba8",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4b4b9bbc-21f1-46e0-b6b9-f0e002c9d9b5",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "19",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b0e077e3-3c11-4c6b-afe7-347ea0e2377a",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "我有点儿胆怯，但想和你好说话",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ae5f0848-0cc6-4a62-a9b0-35a0938c9bd5",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6ab93c35-c4e4-46c0-a5eb-b264ebb424fe",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "958",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9222705e-b06b-4b69-a6fd-4cfc51edc441",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e07847b3-1bf9-491c-a2b9-ab335df34835",
+        "index": 19,
+        "sourceId": null,
+        "creationDateTime": "2024-07-09T13:09:41.369Z",
+        "lastEditedDateTime": "2024-07-09T13:16:05.373Z",
+        "cells": [
+          {
+            "id": "de92759b-39a0-4970-973a-f771021a003d",
+            "columnId": "2a361762-f33d-410e-9471-17b414c679a0",
+            "content": "个人成长榜",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a24def1d-2e5f-4f7c-955a-d279310d4fb8",
+            "columnId": "d473cedc-9cb1-448b-bb9c-0c76ee16138d",
+            "content": "20",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "757ca922-d50d-468d-97d4-50550fe22442",
+            "columnId": "d6bae200-92dd-4a56-b752-c4d647952142",
+            "content": "跨越不可能",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d8cc28b1-3e5e-422a-aa50-f2d139f28fea",
+            "columnId": "abfc450f-9b01-4b02-a943-9be7821e534d",
+            "content": "樊登讲书",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c0a77f82-cea4-4a0a-aaaa-eabd8a935e6d",
+            "columnId": "dd8a4f0d-bc51-4ea8-a046-7d07f84b028e",
+            "content": "1617.6",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d3c16260-a99a-4608-b67e-4dcc5d495385",
+            "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "id": "658f90e9-9787-404d-8f01-92d9a534cc22",
+        "columnId": "62d64932-47ab-4886-afea-e7a1ea9c2ac0",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "checkbox",
+        "condition": "is",
+        "value": true
+      }
+    ],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.1"
+}
