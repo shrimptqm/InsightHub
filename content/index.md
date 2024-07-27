@@ -4,8 +4,7 @@ draft: false
 tags:
   - example-tag
 ---
-<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:100%; height:60px;" src="https://cn.widgetstore.net/view/index.html?q=5b049cc8622189440f31d6307d40e568.8212c3bc6655742f01d6ea8a2ee15a73"></iframe>
-
+<iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:100%; height:60px;" src="https://cn.widgetstore.net/view/index.html?q=5b049cc8622189440f31d6307d40e568.25e993b766a49db20042ddd94e830e2c"></iframe>
 ## 📢最近更新
 
 > [!NOTE]
@@ -37,7 +36,7 @@ tags:
 - [[230_知识管理_方法论与工具]]
 - [[240_知识管理_价值评估]]
 - [[250_知识管理_最佳实践]]
-## 组织管理
+## 👨‍👧‍👦组织管理
 
 - [[310_组织管理-历史沿革]]
 - [[320_组织管理-能力建设]]
@@ -45,14 +44,14 @@ tags:
 - [[340_组织管理-领导力]]
 - [[350_组织管理-效能评估]]
 - [[360_组织管理-最佳实践]]
-## 项目管理
+## 🏗项目管理
 
 - [[410_项目管理-历史沿革]]
 - [[420_项目管理-生命周期]]
 - [[430_项目管理-知识领域]]
 - [[440_项目管理-思想变革]]
 - [[450_项目管理-最佳实践]]
-## 认知科学
+## 🧠认知科学
 
 - [[500_认知科学-README]]
 - [[510_认知科学-历史沿革]]
