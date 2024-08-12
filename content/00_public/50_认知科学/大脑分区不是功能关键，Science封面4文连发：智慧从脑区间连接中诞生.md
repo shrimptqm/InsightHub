@@ -1,21 +1,13 @@
 ---
-uid: 20240726195707
-title: 大脑分区不是功能关键，Science封面4文连发：智慧从脑区间连接中诞生
-tags: 
-author: 
 draft: false
-modified: 20240726200704
 ---
-
-# 大脑分区不是功能关键，Science 封面 4 文连发：智慧从脑区间连接中诞生
-
 Alex 詹士 发自 凹非寺
 
 量子位 | 公众号 QbitAI
 
 是时候重新认识一下我们大脑的运行原理了！
 
-最新一期顶刊 Science，以特刊的形式连发 4 篇论文，剑指同一核心要点：
+最新一期顶刊Science，以特刊的形式连发4篇论文，剑指同一核心要点：
 
 大脑各种功能的关键，并不在于各脑区独立完成特定功能，而在于不同区域之间的连接和交流。
 
@@ -25,7 +17,7 @@ Alex 詹士 发自 凹非寺
 
 擅用左脑思考的人，数学和逻辑能力更强；而右脑发达的人，则更具创造力。
 
-Science 的高级编辑 Peter Stern 博士在本期的发刊词中强调了大脑连接的重要性：
+Science的高级编辑Peter Stern博士在本期的发刊词中强调了大脑连接的重要性：
 
 ==如果没有顺利运行的连接，大脑只不过是一堆神经元。==
 
@@ -33,7 +25,7 @@ Science 的高级编辑 Peter Stern 博士在本期的发刊词中强调了大�
 
 ![](https://imagepphcloud.thepaper.cn/pph/image/223/736/237.jpg)
 
-所以，这 4 篇文章说了什么？
+所以，这4篇文章说了什么？
 
 往下看。
 
@@ -41,7 +33,7 @@ Science 的高级编辑 Peter Stern 博士在本期的发刊词中强调了大�
 
 ## 第一篇：“连接” 就是大脑的核心
 
-第一篇名为 The emergent properties of the connected brain，其中提出了整期特刊的核心关键词，连接。
+第一篇名为The emergent properties of the connected brain，其中提出了整期特刊的核心关键词，连接。
 
 ![](https://imagepphcloud.thepaper.cn/pph/image/223/736/239.jpg)
 
@@ -73,7 +65,7 @@ Science 的高级编辑 Peter Stern 博士在本期的发刊词中强调了大�
 
 ![](https://imagepphcloud.thepaper.cn/pph/image/223/736/241.jpg)
 
-该篇内容中，研究者提出一个名词 connectome，用以对神经元和大脑区域进行描述。
+该篇内容中，研究者提出一个名词connectome，用以对神经元和大脑区域进行描述。
 
 谈及引入新概念的必要性，他们认为，这是理解大脑动力学以及相关功能产生的基础。
 
@@ -95,11 +87,11 @@ Science 的高级编辑 Peter Stern 博士在本期的发刊词中强调了大�
 
 具体到实现上，研究者采用光遗传功能磁共振成像（ofMRI） ，并结合了计算建模。
 
-ofMRI 是种新技术，结合了高场磁共振成像的高空间分辨率与光遗传学刺激的高精度，可以调查整个大脑神经回路的精确功能连接。
+ofMRI是种新技术，结合了高场磁共振成像的高空间分辨率与光遗传学刺激的高精度，可以调查整个大脑神经回路的精确功能连接。
 
 ![](https://imagepphcloud.thepaper.cn/pph/image/223/736/246.jpg)
 
-对所得的 MRI 信号进行计算建模，可以在不同区域层面上定量描述细胞类型的特异性，以及宏观功能在单细胞上的具体体现。
+对所得的MRI信号进行计算建模，可以在不同区域层面上定量描述细胞类型的特异性，以及宏观功能在单细胞上的具体体现。
 
 研究人员认为，这些成果未来可以为治疗帕金森病，开发恢复大脑功能的系统工程方法等铺平道路。
 
@@ -111,13 +103,13 @@ ofMRI 是种新技术，结合了高场磁共振成像的高空间分辨率与�
 
 两位作者来自挪威的顶级学府奥斯陆大学。
 
-他们指出，现在已有几种绘制神经连接图的技术，其中“3D 数字脑图集”对辅助科研人员探索理解大脑的组织和功能最有效。
+他们指出，现在已有几种绘制神经连接图的技术，其中“3D数字脑图集”对辅助科研人员探索理解大脑的组织和功能最有效。
 
 ![](https://imagepphcloud.thepaper.cn/pph/image/223/736/249.jpg)
 
 研究者可以使用工具将不同类型的数据登记到图集上，并运动计算机对大型数据集进行后续的自动分析，大大加速整合工作。
 
-最后，引用其中一篇论文作者：拉德堡大学的神经科学家 Stephanie Forkel 的话，来总结一下从“连接”角度认识大脑功能有何意义：
+最后，引用其中一篇论文作者：拉德堡大学的神经科学家Stephanie Forkel的话，来总结一下从“连接”角度认识大脑功能有何意义：
 
 经典观点中的模块化大脑有个明显缺陷，就是它不好解释人与人之间的差异性。
 
@@ -125,14 +117,14 @@ ofMRI 是种新技术，结合了高场磁共振成像的高空间分辨率与�
 
 参考链接：
 
-\[1\]<https://www.science.org/toc/science/current>
+\[1\]https://www.science.org/toc/science/current
 
-\[2\]<https://www.ru.nl/en/research/research-news/new-view-on-the-brain-its-all-in-the-connections>
+\[2\]https://www.ru.nl/en/research/research-news/new-view-on-the-brain-its-all-in-the-connections
 
-\[3\]<https://mp.weixin.qq.com/s/3rO10ilXlMsNtexiayziNw>
+\[3\]https://mp.weixin.qq.com/s/3rO10ilXlMsNtexiayziNw
 
 — 完 —
 
-原标题：《大脑分区不是功能关键！Science 封面 4 文连发：智慧从脑区间连接中诞生》
+原标题：《大脑分区不是功能关键！Science封面4文连发：智慧从脑区间连接中诞生》
 
 [阅读原文](http://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247650809&idx=5&sn=e75c84caeb2a7c7af5898755be130cf4&chksm=e8de3a8bdfa9b39dadb90c108cc8a8a37a90bc9fe0c686044f8462dd8b0eea4a0205474757af&scene=27#wechat_redirect)

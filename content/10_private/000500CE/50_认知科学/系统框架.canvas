@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"3b696c93a5033acc","type":"file","file":"Pasted image 20240529205626.png","x":20,"y":-270,"width":399,"height":214},
+		{"id":"7833a633d66c21bb","type":"text","text":"对外平台：GitHub\n网站链接：https://shrimptqm.github.io/zjevt-me/","x":-440,"y":-163,"width":250,"height":127,"color":"1"},
+		{"id":"c47a74d9d8b82ec3","type":"text","text":"软件：logseq\n私域：Content\n网站链接：L:\\02_me_brain_v2\\content","x":-380,"y":380,"width":340,"height":100,"color":"5"},
+		{"id":"8b41ff9d106e9e07","type":"text","text":"软件：logseq\n私域：Content\n网站链接：L:\\02_me_brain_v2\\content","x":-400,"y":380,"width":340,"height":100,"color":"5"},
+		{"id":"b1bf662cd1a6fc89","type":"text","text":"软件：logseq\n私域：个人文件夹\n网站链接：L:\\02_me_brain_v2\\content","x":-420,"y":380,"width":340,"height":100,"color":"5"},
+		{"id":"0aac4c0f9be132a0","type":"text","text":"软件：Obsidian\n公共仓库：Content\n网站链接：L:\\02_me_brain_v2\\content","x":-190,"y":100,"width":340,"height":100,"color":"6"}
+	],
+	"edges":[
+		{"id":"48d769944394eb10","fromNode":"7833a633d66c21bb","fromSide":"right","toNode":"3b696c93a5033acc","toSide":"left","label":"公开页面"},
+		{"id":"3ad093cc6cb7579b","fromNode":"0aac4c0f9be132a0","fromSide":"top","toNode":"7833a633d66c21bb","toSide":"bottom","label":"脱敏后公布"},
+		{"id":"3f18c9fc352b8334","fromNode":"b1bf662cd1a6fc89","fromSide":"top","toNode":"0aac4c0f9be132a0","toSide":"bottom","label":"审核后进入公共仓库"}
+	]
+}
